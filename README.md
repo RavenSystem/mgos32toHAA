@@ -1,5 +1,5 @@
 # Shelly convert to HAA
-This guide explains how to convert Shelly ESP32 and ESP32-C3 driven devices to [HAA firmware](https://github.com/RavenSystem/esp-homekit-devices/wiki)
+This guide explains how to convert Shelly Plus, Pro and Mini (ESP32 and ESP32-C3) devices to [HAA firmware](https://github.com/RavenSystem/esp-homekit-devices/wiki)
 
 ## :warning: **There is no way back to Shelly firmware if the new ZIP file has been uploaded!**
 Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding to back to original firmware. To back to Shelly firmware or to recover it if something goes wrong, a wired connection to a PC using a FTDI adapter is needed.
