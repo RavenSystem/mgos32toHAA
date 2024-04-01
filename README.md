@@ -15,7 +15,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 1. Connect to Shelly device and open its web interface.
 2. Navigate to `Settings -> Firmware`, and drag & drop the ZIP file in the firmware update area.
 3. Click the `Update` button, and be sure that you don't cut power while Shelly is installing.
-4. Wait until Shelly web interface tries to reload, and wair 30 seconds more to let new firmware to do the process.
+4. Wait until Shelly web interface tries to reload, and wait 30 seconds more to let new firmware to do the process.
 5. Now, a `HAA-XXXXXX` WiFi HotSpot should be visible to start the [HAA Installation steps](https://github.com/RavenSystem/esp-homekit-devices/wiki/installation#installing-haa). Now, it is safe to cut power if you want.
 
 Most common script is preloaded for several Shelly models, normally with switch functions.
