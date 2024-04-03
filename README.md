@@ -1,5 +1,16 @@
 # Shelly convert to HAA
+
 This guide explains how to convert Shelly Plus, Pro and Mini (ESP32 and ESP32-C3) devices to [HAA firmware](https://github.com/RavenSystem/esp-homekit-devices/wiki)
+
+[![Release](https://img.shields.io/github/v/tag/RavenSystem/mgos32toHAA?color=red&label=release)](https://github.com/RavenSystem/mgos32toHAA/releases/latest)
+[![GitHub download](https://img.shields.io/github/downloads/RavenSystem/mgos32toHAA/total.svg)](https://github.com/RavenSystem/mgos32toHAA/releases/latest)
+[![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/ravensystem)
+
+[![Twitter](https://img.shields.io/twitter/follow/RavenSystem.svg?style=social)](https://twitter.com/RavenSystem)
+
+[![Chat](https://img.shields.io/discord/594630635696553994?style=social)](https://discord.com/servers/esp-homekit-devices-594630635696553994)
+
+<p align="center"><img width="300" src="https://raw.githubusercontent.com/RavenSystem/ravensystem-media/master/works-with-apple-home.svg"></p>
 
 ## :warning: **There is no way back to Shelly firmware if the new ZIP file has been uploaded!**
 Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding to back to original firmware. To back to Shelly firmware or to recover it if something goes wrong, a wired connection to a PC using a FTDI adapter is needed.
