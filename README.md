@@ -18,7 +18,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 :warning: **This is a third-party experimental project, without any relation with Shelly or Alterco. If you decide to try it, [all is under your responsability](https://github.com/RavenSystem/mgos32toHAA/blob/main/LICENSE). :warning:**
 
 ## Requisites
-- Download corresponding ZIP file from [Releases](https://github.com/RavenSystem/mgos32toHAA/releases).
+- Download corresponding ZIP file from [Releases](https://github.com/RavenSystem/mgos32toHAA/releases/latest).
 - Shelly doesn't need to be updated to latest firmware version, but it can be updated to latest version.
 - Shelly doesn't need to be connected to your WiFi network, but it can be connected to your WiFi network.
 
