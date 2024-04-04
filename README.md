@@ -15,12 +15,12 @@ This guide explains how to convert Shelly Plus, Pro and Mini (ESP32 and ESP32-C3
 ## :warning: **There is no way back to Shelly firmware if the new ZIP file has been uploaded!**
 Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding to back to original firmware. To back to Shelly firmware or to recover it if something goes wrong, a wired connection to a PC using a FTDI adapter is needed.
 
-:warning: **This is a third-party experimental project, without any relation with Shelly or Alterco. Consider it in a BETA stage. If you decide to try it, [all is under your responsability](https://github.com/RavenSystem/mgos32toHAA/blob/main/LICENSE). :warning:**
+:warning: **This is a third-party experimental project, without any relation with Shelly or Alterco. If you decide to try it, [all is under your responsability](https://github.com/RavenSystem/mgos32toHAA/blob/main/LICENSE). :warning:**
 
 ## Requisites
 - Download corresponding ZIP file from [Releases](https://github.com/RavenSystem/mgos32toHAA/releases).
-- Shelly doesn't need to be updated to latest firmware version.
-- Shelly doesn't need to be connected to your WiFi network.
+- Shelly doesn't need to be updated to latest firmware version, but it can be updated to latest version.
+- Shelly doesn't need to be connected to your WiFi network, but it can be connected to your WiFi network.
 
 ## Instructions
 1. Connect to Shelly device and open its web interface.
