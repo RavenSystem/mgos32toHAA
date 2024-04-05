@@ -15,21 +15,21 @@ This guide explains how to convert Shelly Plus, Pro and Mini (ESP32 and ESP32-C3
 ## :warning: **There is no way back to Shelly firmware if the new ZIP file has been uploaded!**
 Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding to back to original firmware. To back to Shelly firmware or to recover it if something goes wrong, a wired connection to a PC using a FTDI adapter is needed.
 
-:warning: **This is a third-party experimental project, without any relation with Shelly or Alterco. If you decide to try it, [all is under your responsability](https://github.com/RavenSystem/mgos32toHAA/blob/main/LICENSE). :warning:**
+:warning: **This is a third-party experimental project, without any relation with Shelly or Alterco. If you decide to try it, [all is under your responsability](https://github.com/RavenSystem/mgos32toHAA/blob/main/LICENSE) :warning:**
 
-## Requisites
+## Pre-requisites
 - Download corresponding ZIP file from [Releases](https://github.com/RavenSystem/mgos32toHAA/releases/latest).
-- Shelly doesn't need to be updated to latest firmware version, but it can be updated to latest version.
-- Shelly doesn't need to be connected to your WiFi network, but it can be connected to your WiFi network.
+- Shelly doesn't need to be updated to latest firmware version, but it can be updated to latest version if you want.
+- Shelly doesn't need to be connected to your WiFi network, but it can be connected to your WiFi network if you want.
 
 ## Instructions
-1. Connect to Shelly device and open its web interface.
+1. Connect to Shelly device and open its web interface with a web browser.
 2. Navigate to `Settings -> Firmware`, and drag & drop the ZIP file in the firmware update area.
 3. Click the `Update` button, and be sure that you don't cut power while Shelly is installing.
-4. Wait until Shelly web interface tries to reload, and wait 30 seconds more to let new firmware to do the process.
-5. Now, a `HAA-XXXXXX` WiFi HotSpot should be visible to start the [HAA Installation steps](https://github.com/RavenSystem/esp-homekit-devices/wiki/installation#installing-haa). Now, it is safe to cut power if you want.
+4. Wait until Shelly web interface tries to reload, and wait 30 seconds more to let new firmware to do the conversion process.
+5. A `HAA-XXXXXX` WiFi HotSpot should be visible to start the [HAA Installation steps](https://github.com/RavenSystem/esp-homekit-devices/wiki/installation#installing-haa). Now, it is safe to cut power if you want.
 
-Most common script is preloaded for several Shelly models, normally with switch functions.
+Most common scripts are preloaded for several Shelly models, normally with switch/button functions.
 
 Feel free to change or modify MELPHAA script as your needs. [HAA Wiki](https://github.com/RavenSystem/esp-homekit-devices/wiki)
 
