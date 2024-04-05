@@ -22,7 +22,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 - Shelly doesn't need to be updated to latest firmware version, but it can be updated to latest version if you want.
 - Shelly doesn't need to be connected to your WiFi network, but it can be connected to your WiFi network if you want.
 
-## Instructions
+## Instructions [(YouTube Video with subtitles)](https://www.youtube.com/watch?v=06YHkRkwJE4)
 1. Connect to Shelly device and open its web interface with a web browser using its IP address.
 2. Navigate to `Settings -> Firmware`, and drag & drop the ZIP file in the firmware update area.
 3. Click the `Update` button.
