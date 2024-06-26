@@ -54,7 +54,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 | Shelly Pro 3             | Pro3.zip           |
 | Shelly Pro 3EM           | Pro3EM.zip         |
 | Shelly Pro 4PM           | Pro4PM.zip         |
-| Shelly Pro Dimmer        | ProDimmerx.zip     |
+| Shelly Pro Dimmer 2PM    | ProDimmerx.zip     |
 | Shelly 1 Gen3            | S1G3.zip           |
 | Shelly 1PM Gen3          | S1PMG3.zip         |
 
