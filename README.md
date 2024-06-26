@@ -44,7 +44,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 | Shelly Plus Plug S       | PlusPlugS.zip      | ✓
 | Shelly Plus Plug UK      | PlusPlugUK.zip     | ✓
 | Shelly Plus PM Mini      | PlusPMMini.zip     |
-| Shelly Plus UNI          | PlusUni.zip        | ✓
+| Shelly Plus Uni          | PlusUni.zip        | ✓
 | Shelly Plus Wall Dimmer  | PlusWallDimmer.zip |
 | Shelly Pro 1             | Pro1.zip           | ✓
 | Shelly Pro 1PM           | Pro1PM.zip         |
