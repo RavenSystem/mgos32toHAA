@@ -36,7 +36,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 | Shelly Plus 1            | Plus1.zip          | ✓
 | Shelly Plus 0-10V Dimmer | Plus10V.zip        |
 | Shelly Plus 1 Mini       | Plus1Mini.zip      | ✓
-| Shelly Plus 1PM          | Plus1PM.zip        |
+| Shelly Plus 1PM          | Plus1PM.zip        | ✓
 | Shelly Plus 1PM Mini     | Plus1PMMini.zip    |
 | Shelly Plus 2PM          | Plus2PM.zip        | ✓
 | Shelly Plus HT           | PlusHT.zip         |
