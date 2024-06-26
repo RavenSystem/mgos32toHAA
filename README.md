@@ -26,6 +26,34 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 - Shelly doesn't need to be updated to latest firmware version, but it can be updated to latest version if you want.
 - Shelly doesn't need to be connected to your WiFi network, but it can be connected to your WiFi network if you want.
 
+| Device                  | ZIP File           | Prelodaded Script
+|:------------------------|:-------------------|:-----------------
+| Shelly 1 Mini Gen3       | Mini1G3.zip        | ✓
+| Shelly 1PM Mini Gen3     | Mini1PMG3.zip      |
+| Shelly PM Mini Gen3      | MiniPMG3.zip       |
+| Shelly Plug US           | PlugUS.zip         | ✓
+| Shelly Plus 1            | Plus1.zip          | ✓
+| Shelly Plus 0-10V Dimmer | Plus10V.zip        |
+| Shelly Plus 1 Mini       | Plus1Mini.zip      | ✓
+| Shelly Plus 1PM          | Plus1PM.zip        |
+| Shelly Plus 1PM Mini     | Plus1PMMini.zip    |
+| Shelly Plus 2PM          | Plus2PM.zip        |
+| Shelly Plus HT           | PlusHT.zip         |
+| Shelly Plus I4           | PlusI4.zip         | ✓
+| Shelly Plus Plug IT      | PlusPlugIT.zip     | ✓
+| Shelly Plus Plug S       | PlusPlugS.zip      | ✓
+| Shelly Plus Plug UK      | PlusPlugUK.zip     | ✓
+| Shelly Plus PM Mini      | PlusPMMini.zip     |
+| Shelly Plus UNI          | PlusUni.zip        | ✓
+| Shelly Plus Wall Dimmer  | PlusWallDimmer.zip |
+| Shelly Pro 1             | Pro1.zip           | ✓
+| Shelly Pro 1PM           | Pro1PM.zip         |
+| Shelly Pro 2             | Pro2.zip           |
+| Shelly Pro 2PM           | Pro2PM.zip         |
+| Shelly Pro 3             | Pro3.zip           |
+| Shelly Pro 3EM           | Pro3EM.zip         |
+| Shelly Pro 4PM           | Pro4PM.zip         |
+
 ## Instructions [(YouTube Video with subtitles)](https://www.youtube.com/watch?v=06YHkRkwJE4)
 1. Connect to Shelly device and open its web interface with a web browser using its IP address.
 2. Navigate to `Settings -> Firmware`, and drag & drop or browse for the ZIP file in the `Firmware file image`.
