@@ -26,8 +26,9 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 - Shelly doesn't need to be updated to latest firmware version, but it can be updated to latest version if you want.
 - Shelly doesn't need to be connected to your WiFi network, but it can be connected to your WiFi network if you want.
 
-| Device                  | ZIP File           | Prelodaded Script
-|:------------------------|:-------------------|:-----------------
+| Device                   | ZIP File           | Prelodaded Script
+|:-------------------------|:-------------------|:-----------------
+| Shelly I4 Gen3           | I4G3.zip           |
 | Shelly 1 Mini Gen3       | Mini1G3.zip        | ✓
 | Shelly 1PM Mini Gen3     | Mini1PMG3.zip      |
 | Shelly PM Mini Gen3      | MiniPMG3.zip       |
@@ -53,6 +54,9 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 | Shelly Pro 3             | Pro3.zip           |
 | Shelly Pro 3EM           | Pro3EM.zip         |
 | Shelly Pro 4PM           | Pro4PM.zip         |
+| Shelly Pro Dimmer        | ProDimmerx.zip     |
+| Shelly 1 Gen3            | S1G3.zip           |
+| Shelly 1PM Gen3          | S1PMG3.zip         |
 
 ## Instructions [(YouTube Video with subtitles)](https://www.youtube.com/watch?v=06YHkRkwJE4)
 1. Connect to Shelly device and open its web interface with a web browser using its IP address.
