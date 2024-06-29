@@ -26,7 +26,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 - Shelly doesn't need to be updated to latest firmware version, but it can be updated to latest version if you want.
 - Shelly doesn't need to be connected to your WiFi network, but it can be connected to your WiFi network if you want.
 
-| Device                   | ZIP File           | Prelodaded Script
+| Device                   | ZIP File           | Prelodaded HomeKit functions
 |:-------------------------|:-------------------|:-----------------
 | Shelly I4 Gen3           | I4G3.zip           | 4 Stateless buttons and internal temperature
 | Shelly 1 Mini Gen3       | Mini1G3.zip        | Switch and internal temperature with 75°C overheat protection
