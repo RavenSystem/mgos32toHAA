@@ -28,35 +28,35 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 
 | Device                   | ZIP File           | Prelodaded Script
 |:-------------------------|:-------------------|:-----------------
-| Shelly I4 Gen3           | I4G3.zip           |
-| Shelly 1 Mini Gen3       | Mini1G3.zip        | ✓
-| Shelly 1PM Mini Gen3     | Mini1PMG3.zip      |
-| Shelly PM Mini Gen3      | MiniPMG3.zip       |
-| Shelly Plug US           | PlugUS.zip         | ✓
-| Shelly Plus 1            | Plus1.zip          | ✓
-| Shelly Plus 0-10V Dimmer | Plus10V.zip        |
-| Shelly Plus 1 Mini       | Plus1Mini.zip      | ✓
-| Shelly Plus 1PM          | Plus1PM.zip        | ✓
-| Shelly Plus 1PM Mini     | Plus1PMMini.zip    |
-| Shelly Plus 2PM          | Plus2PM.zip        | ✓
-| Shelly Plus HT           | PlusHT.zip         |
-| Shelly Plus I4           | PlusI4.zip         | ✓
-| Shelly Plus Plug IT      | PlusPlugIT.zip     | ✓
-| Shelly Plus Plug S       | PlusPlugS.zip      | ✓
-| Shelly Plus Plug UK      | PlusPlugUK.zip     | ✓
-| Shelly Plus PM Mini      | PlusPMMini.zip     |
-| Shelly Plus Uni          | PlusUni.zip        | ✓
-| Shelly Plus Wall Dimmer  | PlusWallDimmer.zip |
-| Shelly Pro 1             | Pro1.zip           | ✓
-| Shelly Pro 1PM           | Pro1PM.zip         |
-| Shelly Pro 2             | Pro2.zip           |
-| Shelly Pro 2PM           | Pro2PM.zip         |
-| Shelly Pro 3             | Pro3.zip           |
-| Shelly Pro 3EM           | Pro3EM.zip         |
-| Shelly Pro 4PM           | Pro4PM.zip         |
-| Shelly Pro Dimmer 2PM    | ProDimmerx.zip     |
-| Shelly 1 Gen3            | S1G3.zip           |
-| Shelly 1PM Gen3          | S1PMG3.zip         |
+| Shelly I4 Gen3           | I4G3.zip           | 4 Stateless buttons and internal temperature
+| Shelly 1 Mini Gen3       | Mini1G3.zip        | Switch and internal temperature with 75°C overheat protection
+| Shelly 1PM Mini Gen3     | Mini1PMG3.zip      | Switch, power monitoring and internal temperature with 75°C overheat protection
+| Shelly PM Mini Gen3      | MiniPMG3.zip       | Power monitoring and internal temperature
+| Shelly Plug US           | PlugUS.zip         | Outlet, power monitoring and internal temperature with 75°C overheat protection
+| Shelly Plus 1            | Plus1.zip          | Switch and internal temperature with 75°C overheat protection
+| Shelly Plus 0-10V Dimmer | Plus10V.zip        | None
+| Shelly Plus 1 Mini       | Plus1Mini.zip      | Switch and internal temperature with 75°C overheat protection
+| Shelly Plus 1PM          | Plus1PM.zip        | Switch, power monitoring and internal temperature with 75°C overheat protection
+| Shelly Plus 1PM Mini     | Plus1PMMini.zip    | Switch, power monitoring and internal temperature with 75°C overheat protection
+| Shelly Plus 2PM          | Plus2PM.zip        | 2 Switches, power monitoring and internal temperature with 75°C overheat protection
+| Shelly Plus HT           | PlusHT.zip         | None
+| Shelly Plus I4           | PlusI4.zip         | 4 Stateless buttons
+| Shelly Plus Plug IT      | PlusPlugIT.zip     | Outlet, power monitoring and internal temperature with 75°C overheat protection
+| Shelly Plus Plug S       | PlusPlugS.zip      | Outlet, power monitoring and internal temperature with 75°C overheat protection
+| Shelly Plus Plug UK      | PlusPlugUK.zip     | Outlet, power monitoring and internal temperature with 75°C overheat protection
+| Shelly Plus PM Mini      | PlusPMMini.zip     | Power monitoring and internal temperature
+| Shelly Plus Uni          | PlusUni.zip        | 2 Switches, analog input, and temperature sensor DHT22
+| Shelly Plus Wall Dimmer  | PlusWallDimmer.zip | None
+| Shelly Pro 1             | Pro1.zip           | Switch and internal temperature with 75°C overheat protection
+| Shelly Pro 1PM           | Pro1PM.zip         | None
+| Shelly Pro 2             | Pro2.zip           | None
+| Shelly Pro 2PM           | Pro2PM.zip         | None
+| Shelly Pro 3             | Pro3.zip           | None
+| Shelly Pro 3EM           | Pro3EM.zip         | None
+| Shelly Pro 4PM           | Pro4PM.zip         | None
+| Shelly Pro Dimmer 2PM    | ProDimmerx.zip     | None
+| Shelly 1 Gen3            | S1G3.zip           | None
+| Shelly 1PM Gen3          | S1PMG3.zip         | None
 
 ## Instructions [(YouTube Video with subtitles)](https://www.youtube.com/watch?v=06YHkRkwJE4)
 1. Connect to Shelly device and open its web interface with a web browser using its IP address.
