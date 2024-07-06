@@ -45,6 +45,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 | Shelly Plus Plug S       | PlusPlugS.zip      | Outlet, power monitoring and internal temperature with 75°C overheat protection
 | Shelly Plus Plug UK      | PlusPlugUK.zip     | Outlet, power monitoring and internal temperature with 75°C overheat protection
 | Shelly Plus PM Mini      | PlusPMMini.zip     | Power monitoring and internal temperature
+| Shelly Plus RGBW PM      | PlusRGBWPM.zip     | None
 | Shelly Plus Uni          | PlusUni.zip        | 2 Switches, analog input, and temperature sensor DHT22
 | Shelly Plus Wall Dimmer  | PlusWallDimmer.zip | None
 | Shelly Pro 1             | Pro1.zip           | Switch and internal temperature with 75°C overheat protection
