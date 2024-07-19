@@ -34,7 +34,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 | Shelly PM Mini Gen3      | MiniPMG3.zip       | Power monitoring and internal temperature
 | Shelly Plug US           | PlugUS.zip         | Outlet, power monitoring and internal temperature with 75°C overheat protection
 | Shelly Plus 1            | Plus1.zip          | Switch and internal temperature with 75°C overheat protection
-| Shelly Plus 0-10V Dimmer | Plus10V.zip        | None
+| Shelly Plus 0-10V Dimmer | Plus10V.zip        | Light dimmer, stateless button and internal temperature monitoring from HAA Manager
 | Shelly Plus 1 Mini       | Plus1Mini.zip      | Switch and internal temperature with 75°C overheat protection
 | Shelly Plus 1PM          | Plus1PM.zip        | Switch, power monitoring and internal temperature with 75°C overheat protection
 | Shelly Plus 1PM Mini     | Plus1PMMini.zip    | Switch, power monitoring and internal temperature with 75°C overheat protection
@@ -45,12 +45,13 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 | Shelly Plus Plug S       | PlusPlugS.zip      | Outlet, power monitoring and internal temperature with 75°C overheat protection
 | Shelly Plus Plug UK      | PlusPlugUK.zip     | Outlet, power monitoring and internal temperature with 75°C overheat protection
 | Shelly Plus PM Mini      | PlusPMMini.zip     | Power monitoring and internal temperature
-| Shelly Plus RGBW PM      | PlusRGBWPM.zip     | None
+| Shelly Plus RGBW PM      | PlusRGBWPM.zip     | Color lightbulb RGBW with external buttons/toggles
+| Shelly Plus Smoke        | PlusSmoke.zip      | None
 | Shelly Plus Uni          | PlusUni.zip        | 2 Switches, analog input, and temperature sensor DHT22
 | Shelly Plus Wall Dimmer  | PlusWallDimmer.zip | None
 | Shelly Pro 1             | Pro1.zip           | Switch and internal temperature with 75°C overheat protection
 | Shelly Pro 1PM           | Pro1PM.zip         | None
-| Shelly Pro 2             | Pro2.zip           | None
+| Shelly Pro 2             | Pro2.zip           | Switches with external toggles and internal temperature with 75°C overheat protection
 | Shelly Pro 2PM           | Pro2PM.zip         | None
 | Shelly Pro 3             | Pro3.zip           | None
 | Shelly Pro 3EM           | Pro3EM.zip         | None
