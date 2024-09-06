@@ -38,7 +38,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 | Shelly Plus 1 Mini       | Plus1Mini.zip      | Switch and internal temperature with 75°C overheat protection
 | Shelly Plus 1PM          | Plus1PM.zip        | Switch, power monitoring and internal temperature with 75°C overheat protection
 | Shelly Plus 1PM Mini     | Plus1PMMini.zip    | Switch, power monitoring and internal temperature with 75°C overheat protection
-| Shelly Plus 2PM          | Plus2PM.zip        | 2 Switches, power monitoring and internal temperature with 75°C overheat protection
+| Shelly Plus 2PM          | Plus2PM.zip        | 2 switches, power monitoring and internal temperature with 75°C overheat protection
 | Shelly Plus HT           | PlusHT.zip         | None
 | Shelly Plus I4           | PlusI4.zip         | 4 Stateless buttons
 | Shelly Plus Plug IT      | PlusPlugIT.zip     | Outlet, power monitoring and internal temperature with 75°C overheat protection
@@ -49,11 +49,11 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 | Shelly Plus Smoke        | PlusSmoke.zip      | None
 | Shelly Plus Uni          | PlusUni.zip        | 2 Switches, analog input, and temperature sensor DHT22
 | Shelly Plus Wall Dimmer  | PlusWallDimmer.zip | None
-| Shelly Pro 1             | Pro1.zip           | Switch and internal temperature with 75°C overheat protection
+| Shelly Pro 1             | Pro1.zip           | Switch with external toggle/button and internal temperature with 75°C overheat protection
 | Shelly Pro 1PM           | Pro1PM.zip         | None
-| Shelly Pro 2             | Pro2.zip           | Switches with external toggles and internal temperature with 75°C overheat protection
+| Shelly Pro 2             | Pro2.zip           | 2 switches with external toggles and internal temperature with 75°C overheat protection
 | Shelly Pro 2PM           | Pro2PM.zip         | None
-| Shelly Pro 3             | Pro3.zip           | None
+| Shelly Pro 3             | Pro3.zip           | 3 switches with external toggles and internal temperature with 75°C overheat protection
 | Shelly Pro 3EM           | Pro3EM.zip         | None
 | Shelly Pro 4PM           | Pro4PM.zip         | None
 | Shelly Pro Dimmer 2PM    | ProDimmerx.zip     | None
@@ -65,7 +65,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 2. Navigate to `Settings -> Firmware`, and drag & drop or browse for the ZIP file in the `Firmware file image`.
 3. Click the `Update from file` button.
 4. Wait until Shelly web interface tries to reload, and wait 30 seconds more to let new firmware to do the conversion process. Be sure that you don't cut power during these 30 seconds of conversion, or your Shelly will have a chance of 1% to be bricked.
-5. A `HAA-XXXXXX` WiFi HotSpot should be visible to start the [HAA Installation steps](https://github.com/RavenSystem/esp-homekit-devices/wiki/installation#installing-haa).
+5. An `HAA-XXXXXX` WiFi HotSpot should be visible to start the [HAA Installation steps](https://github.com/RavenSystem/esp-homekit-devices/wiki/installation#installing-haa).
 
 Feel free to change or modify MELPHAA script as your needs. [HAA Wiki](https://github.com/RavenSystem/esp-homekit-devices/wiki)
 
