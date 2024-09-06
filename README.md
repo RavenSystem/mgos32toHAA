@@ -15,7 +15,7 @@ For older Shelly devices (Gen1), use this instead: [mgos to HAA Shelly ESP8266](
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/RavenSystem/ravensystem-media/master/works-with-apple-home.svg"></p>
 
 ## :warning: **There is no OTA way back to Shelly firmware if the new ZIP file has been uploaded!**
-Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding to back to original firmware. To back to Shelly firmware or to recover it if something goes wrong, a wired connection to a PC using a FTDI adapter is needed.
+Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding to back to original firmware. To back to Shelly firmware or to recover it if something goes wrong, a wired connection to a PC using an FTDI adapter is needed.
 
 :warning: **This is a third-party experimental project, without any relation with Shelly or Alterco. If you decide to try it, [all is under your responsability](https://github.com/RavenSystem/mgos32toHAA/blob/main/LICENSE)**
 
