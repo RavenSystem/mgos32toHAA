@@ -10,7 +10,7 @@ For older Shelly devices (Gen1), use this instead: [mgos to HAA Shelly ESP8266](
 
 [![Twitter](https://img.shields.io/twitter/follow/RavenSystem.svg?style=social)](https://twitter.com/RavenSystem)
 
-[![Chat](https://img.shields.io/discord/594630635696553994?style=social)](https://discord.com/servers/esp-homekit-devices-594630635696553994)
+[![Chat](https://img.shields.io/discord/594630635696553994?style=social)](https://discord.com/invite/v8hyxj2)
 
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/RavenSystem/ravensystem-media/master/works-with-apple-home.svg"></p>
 
