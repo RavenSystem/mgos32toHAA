@@ -2,7 +2,7 @@
 
 This guide explains how to convert Shelly Plus, Mini, Pro and Gen3 devices to [HAA firmware](https://github.com/RavenSystem/esp-homekit-devices/wiki)
 
-For older Shelly devices (Gen1), use this instead: [mgos to HAA Shelly ESP8266](https://github.com/RavenSystem/mgostoHAA)
+For older Shelly devices (Gen1) like Shelly 2.5, Shelly Dimmer 2, etc., use this instead: [mgos to HAA Shelly ESP8266](https://github.com/RavenSystem/mgostoHAA)
 
 [![Release](https://img.shields.io/github/v/tag/RavenSystem/mgos32toHAA?color=red&label=release)](https://github.com/RavenSystem/mgos32toHAA/releases/latest)
 [![GitHub download](https://img.shields.io/github/downloads/RavenSystem/mgos32toHAA/total.svg)](https://github.com/RavenSystem/mgos32toHAA/releases/latest)
