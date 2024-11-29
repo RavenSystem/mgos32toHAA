@@ -59,6 +59,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 | Shelly Pro Dimmer 2PM    | ProDimmerx.zip     | None
 | Shelly 1 Gen3            | S1G3.zip           | None
 | Shelly 1PM Gen3          | S1PMG3.zip         | None
+| Shelly 2PM Gen3          | S2PMG3.zip         | 2 switches with external toggles and internal temperature with 75°C overheat protection
 
 ## Instructions [(YouTube Video with subtitles)](https://www.youtube.com/watch?v=06YHkRkwJE4)
 1. Connect to Shelly device and open its web interface with a web browser using its IP address.
