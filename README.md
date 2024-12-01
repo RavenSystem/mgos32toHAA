@@ -33,9 +33,9 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 | Shelly 1PM Mini Gen3     | Mini1PMG3.zip      | Switch, power monitoring and internal temperature with 75°C overheat protection
 | Shelly PM Mini Gen3      | MiniPMG3.zip       | Power monitoring and internal temperature
 | Shelly Plug US           | PlugUS.zip         | Outlet, power monitoring and internal temperature with 75°C overheat protection
-| Shelly Plus 1            | Plus1.zip          | Switch and internal temperature with 75°C overheat protection
+| Shelly Plus 1            | Plus1.zip          | Switch with external toggle and internal temperature with 75°C overheat protection
 | Shelly Plus 0-10V Dimmer | Plus10V.zip        | Light dimmer, stateless button and internal temperature monitoring from HAA Manager
-| Shelly Plus 1 Mini       | Plus1Mini.zip      | Switch and internal temperature with 75°C overheat protection
+| Shelly Plus 1 Mini       | Plus1Mini.zip      | Switch with external toggle and internal temperature with 75°C overheat protection
 | Shelly Plus 1PM          | Plus1PM.zip        | Switch, power monitoring and internal temperature with 75°C overheat protection
 | Shelly Plus 1PM Mini     | Plus1PMMini.zip    | Switch, power monitoring and internal temperature with 75°C overheat protection
 | Shelly Plus 2PM          | Plus2PM.zip        | 2 switches, power monitoring and internal temperature with 75°C overheat protection
@@ -57,7 +57,8 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 | Shelly Pro 3EM           | Pro3EM.zip         | None
 | Shelly Pro 4PM           | Pro4PM.zip         | None
 | Shelly Pro Dimmer 2PM    | ProDimmerx.zip     | None
-| Shelly 1 Gen3            | S1G3.zip           | None
+| Shelly Pro EM-50         | ProEM.zip          | None
+| Shelly 1 Gen3            | S1G3.zip           | Switch with external toggle and internal temperature with 75°C overheat protection
 | Shelly 1PM Gen3          | S1PMG3.zip         | None
 | Shelly 2PM Gen3          | S2PMG3.zip         | 2 switches with external toggles and internal temperature with 75°C overheat protection
 
