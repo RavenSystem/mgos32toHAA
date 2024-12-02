@@ -28,6 +28,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 
 | Device                   | ZIP File           | Preloaded HomeKit functions
 |:-------------------------|:-------------------|:------------------------------------------------------------------------------------
+| Shelly H&T Gen3          | HTG3.zip           | None
 | Shelly I4 Gen3           | I4G3.zip           | 4 Stateless buttons and internal temperature
 | Shelly 1 Mini Gen3       | Mini1G3.zip        | Switch and internal temperature with 75°C overheat protection
 | Shelly 1PM Mini Gen3     | Mini1PMG3.zip      | Switch, power monitoring and internal temperature with 75°C overheat protection
