@@ -29,39 +29,39 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 | Device                   | ZIP File           | Preloaded HomeKit functions
 |:-------------------------|:-------------------|:------------------------------------------------------------------------------------
 | Shelly H&T Gen3          | HTG3.zip           | None
-| Shelly I4 Gen3           | I4G3.zip           | 4 Stateless buttons and internal temperature
-| Shelly 1 Mini Gen3       | Mini1G3.zip        | Switch and internal temperature with 75°C overheat protection
-| Shelly 1PM Mini Gen3     | Mini1PMG3.zip      | Switch, power monitoring and internal temperature with 75°C overheat protection
-| Shelly PM Mini Gen3      | MiniPMG3.zip       | Power monitoring and internal temperature
-| Shelly Plug US           | PlugUS.zip         | Outlet, power monitoring and internal temperature with 75°C overheat protection
-| Shelly Plus 1            | Plus1.zip          | Switch with external toggle and internal temperature with 75°C overheat protection
-| Shelly Plus 0-10V Dimmer | Plus10V.zip        | Light dimmer, stateless button and internal temperature monitoring from HAA Manager
-| Shelly Plus 1 Mini       | Plus1Mini.zip      | Switch with external toggle and internal temperature with 75°C overheat protection
-| Shelly Plus 1PM          | Plus1PM.zip        | Switch, power monitoring and internal temperature with 75°C overheat protection
-| Shelly Plus 1PM Mini     | Plus1PMMini.zip    | Switch, power monitoring and internal temperature with 75°C overheat protection
-| Shelly Plus 2PM          | Plus2PM.zip        | 2 switches, power monitoring and internal temperature with 75°C overheat protection
+| Shelly I4 Gen3           | I4G3.zip           | 4 stateless buttons and internal temperature monitoring from HAA Manager
+| Shelly 1 Mini Gen3       | Mini1G3.zip        | Switch and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly 1PM Mini Gen3     | Mini1PMG3.zip      | Switch, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly PM Mini Gen3      | MiniPMG3.zip       | Power monitoring and internal temperature monitoring from HAA Manager
+| Shelly Plug US           | PlugUS.zip         | Outlet, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly Plus 1            | Plus1.zip          | Switch and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly Plus 0-10V Dimmer | Plus10V.zip        | Light dimmer, stateless button and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly Plus 1 Mini       | Plus1Mini.zip      | Switch and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly Plus 1PM          | Plus1PM.zip        | Switch, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly Plus 1PM Mini     | Plus1PMMini.zip    | Switch, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly Plus 2PM          | Plus2PM.zip        | 2 switches, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
 | Shelly Plus H&T          | PlusHT.zip         | None
-| Shelly Plus I4           | PlusI4.zip         | 4 Stateless buttons
-| Shelly Plus Plug IT      | PlusPlugIT.zip     | Outlet, power monitoring and internal temperature with 75°C overheat protection
-| Shelly Plus Plug S       | PlusPlugS.zip      | Outlet, power monitoring and internal temperature with 75°C overheat protection
-| Shelly Plus Plug UK      | PlusPlugUK.zip     | Outlet, power monitoring and internal temperature with 75°C overheat protection
-| Shelly Plus PM Mini      | PlusPMMini.zip     | Power monitoring and internal temperature
-| Shelly Plus RGBW PM      | PlusRGBWPM.zip     | Color lightbulb RGBW with external buttons/toggles
+| Shelly Plus I4           | PlusI4.zip         | 4 stateless buttons
+| Shelly Plus Plug IT      | PlusPlugIT.zip     | Outlet, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly Plus Plug S       | PlusPlugS.zip      | Outlet, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly Plus Plug UK      | PlusPlugUK.zip     | Outlet, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly Plus PM Mini      | PlusPMMini.zip     | Power monitoring and internal temperature monitoring from HAA Manager
+| Shelly Plus RGBW PM      | PlusRGBWPM.zip     | Color lightbulb RGBW
 | Shelly Plus Smoke        | PlusSmoke.zip      | None
-| Shelly Plus Uni          | PlusUni.zip        | 2 Switches, analog input, and temperature sensor DHT22
+| Shelly Plus Uni          | PlusUni.zip        | 2 switches, analog input, and temperature sensor DHT22
 | Shelly Plus Wall Dimmer  | PlusWallDimmer.zip | None
-| Shelly Pro 1             | Pro1.zip           | Switch with external toggle/button and internal temperature with 75°C overheat protection
+| Shelly Pro 1             | Pro1.zip           | Switch and internal temperature monitoring from HAA Manager with 75°C overheat protection
 | Shelly Pro 1PM           | Pro1PM.zip         | None
-| Shelly Pro 2             | Pro2.zip           | 2 switches with external toggles and internal temperature with 75°C overheat protection
+| Shelly Pro 2             | Pro2.zip           | 2 switches and internal temperature monitoring from HAA Manager with 75°C overheat protection
 | Shelly Pro 2PM           | Pro2PM.zip         | None
-| Shelly Pro 3             | Pro3.zip           | 3 switches with external toggles and internal temperature with 75°C overheat protection
+| Shelly Pro 3             | Pro3.zip           | 3 switches and internal temperature monitoring from HAA Manager with 75°C overheat protection
 | Shelly Pro 3EM           | Pro3EM.zip         | None
 | Shelly Pro 4PM           | Pro4PM.zip         | None
 | Shelly Pro Dimmer 2PM    | ProDimmerx.zip     | None
 | Shelly Pro EM-50         | ProEM.zip          | None
-| Shelly 1 Gen3            | S1G3.zip           | Switch with external toggle and internal temperature with 75°C overheat protection
-| Shelly 1PM Gen3          | S1PMG3.zip         | None
-| Shelly 2PM Gen3          | S2PMG3.zip         | (Use newer script from HAA Wiki) 2 switches with external toggles and internal temperature with 75°C overheat protection
+| Shelly 1 Gen3            | S1G3.zip           | Switch and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly 1PM Gen3          | S1PMG3.zip         | Switch, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly 2PM Gen3          | S2PMG3.zip         | 2 switches and internal temperature monitoring from HAA Manager with 75°C overheat protection
 
 ## Instructions [(YouTube Video with subtitles)](https://www.youtube.com/watch?v=06YHkRkwJE4)
 1. Connect to Shelly device and open its web interface with a web browser using its IP address.
