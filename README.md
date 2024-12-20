@@ -28,6 +28,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 
 | Device                   | ZIP File           | Preloaded HomeKit functions
 |:-------------------------|:-------------------|:------------------------------------------------------------------------------------
+| Shelly Dimmer 0/1-10V PM Gen3 | Dimmer0110VPMG3.zip | None
 | Shelly H&T Gen3          | HTG3.zip           | None
 | Shelly I4 Gen3           | I4G3.zip           | 4 stateless buttons and internal temperature monitoring from HAA Manager
 | Shelly 1 Mini Gen3       | Mini1G3.zip        | Switch and internal temperature monitoring from HAA Manager with 75°C overheat protection
