@@ -1,6 +1,6 @@
 # Shelly convert to HAA
 
-This guide explains how to convert Shelly Plus, Mini, Pro and Gen3 devices to [HAA firmware](https://github.com/RavenSystem/esp-homekit-devices/wiki)
+This guide explains how to convert Shelly Plus, Mini, Pro, Gen3 and Gen4 devices to [HAA firmware](https://github.com/RavenSystem/esp-homekit-devices/wiki)
 
 For older Shelly devices (Gen1) like Shelly 2.5, Shelly Dimmer 2, etc., use this instead: [mgos to HAA Shelly ESP8266](https://github.com/RavenSystem/mgostoHAA)
 
@@ -19,6 +19,8 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 
 :warning: **This is a third-party experimental project, without any relation with Shelly or Alterco. If you decide to try it, [all is under your responsability](https://github.com/RavenSystem/mgos32toHAA/blob/main/LICENSE)**
 
+:warning: Support for Shelly Gen4 devices is currently very experimental.
+
 #### [Source Code](https://github.com/RavenSystem/esp-homekit-devices/tree/master/HAA/HAA_mgos32_Installer)
 
 ## Pre-requisites
@@ -28,11 +30,15 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 
 | Device                   | ZIP File           | Preloaded HomeKit functions
 |:-------------------------|:-------------------|:------------------------------------------------------------------------------------
+| Shelly Dimmer Gen3       | DDimmerG3.zip      | None
 | Shelly Dimmer 0/1-10V PM Gen3 | Dimmer0110VPMG3.zip | None
+| Shelly EM Gen3           | EMG3.zip           | None
 | Shelly H&T Gen3          | HTG3.zip           | None
 | Shelly I4 Gen3           | I4G3.zip           | 4 stateless buttons and internal temperature monitoring from HAA Manager
 | Shelly 1 Mini Gen3       | Mini1G3.zip        | Switch and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly 1 Mini Gen4       | Mini1G4.zip        | None
 | Shelly 1PM Mini Gen3     | Mini1PMG3.zip      | Switch, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly 1PM Mini Gen4     | Mini1PMG4.zip      | None
 | Shelly PM Mini Gen3      | MiniPMG3.zip       | Power monitoring and internal temperature monitoring from HAA Manager
 | Shelly Plug US           | PlugUS.zip         | Outlet, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
 | Shelly Plus 1            | Plus1.zip          | Switch and internal temperature monitoring from HAA Manager with 75°C overheat protection
@@ -58,11 +64,15 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 | Shelly Pro 3             | Pro3.zip           | 3 switches and internal temperature monitoring from HAA Manager with 75°C overheat protection
 | Shelly Pro 3EM           | Pro3EM.zip         | None
 | Shelly Pro 4PM           | Pro4PM.zip         | None
+| Shelly Pro Dimmer 0/1-10V PM | ProDimmer0110VPM.zip | None
 | Shelly Pro Dimmer 2PM    | ProDimmerx.zip     | None
 | Shelly Pro EM-50         | ProEM.zip          | None
 | Shelly 1 Gen3            | S1G3.zip           | Switch and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly 1 Gen4            | S1G4.zip           | None
 | Shelly 1PM Gen3          | S1PMG3.zip         | Switch, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly 1PM Gen4          | S1PMG4.zip         | None
 | Shelly 2PM Gen3          | S2PMG3.zip         | 2 switches and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly 2PM Gen4          | S2PMG4.zip         | None
 
 ## Instructions [(YouTube Video with subtitles)](https://www.youtube.com/watch?v=06YHkRkwJE4)
 1. Connect to Shelly device and open its web interface with a web browser using its IP address.
