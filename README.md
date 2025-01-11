@@ -24,7 +24,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 #### [Source Code](https://github.com/RavenSystem/esp-homekit-devices/tree/master/HAA/HAA_mgos32_Installer)
 
 ## Pre-requisites
-- Download corresponding ZIP file from [Releases](https://github.com/RavenSystem/mgos32toHAA/releases/latest). If Shelly firmware is too old, use "_Old.zip" file.
+- Download corresponding ZIP file from [Releases](https://github.com/RavenSystem/mgos32toHAA/releases/latest). If Shelly firmware is loaded again when you upload ZIP file, use alternative "_alt.zip" file.
 - Shelly doesn't need to be updated to latest firmware version, but it can be updated to latest version if you want. This works even with version 1.4.x from Shelly.
 - Shelly doesn't need to be connected to your WiFi network, but it can be connected to your WiFi network if you want.
 
