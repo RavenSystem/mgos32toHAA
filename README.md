@@ -46,7 +46,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 | Shelly Plus 1 Mini       | Plus1Mini.zip      | Switch and internal temperature monitoring from HAA Manager with 75°C overheat protection
 | Shelly Plus 1PM          | Plus1PM.zip        | Switch, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
 | Shelly Plus 1PM Mini     | Plus1PMMini.zip    | Switch, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
-| Shelly Plus 2PM          | Plus2PM.zip        | 2 switches, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly Plus 2PM          | Plus2PM.zip        | 2 switches, Zero-Cross relay protection, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
 | Shelly Plus H&T          | PlusHT.zip         | None
 | Shelly Plus I4           | PlusI4.zip         | 4 stateless buttons
 | Shelly Plus Plug IT      | PlusPlugIT.zip     | Outlet, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
@@ -71,7 +71,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 | Shelly 1 Gen4            | S1G4.zip           | None
 | Shelly 1PM Gen3          | S1PMG3.zip         | Switch, power monitoring and internal temperature monitoring from HAA Manager with 75°C overheat protection
 | Shelly 1PM Gen4          | S1PMG4.zip         | None
-| Shelly 2PM Gen3          | S2PMG3.zip         | 2 switches and internal temperature monitoring from HAA Manager with 75°C overheat protection
+| Shelly 2PM Gen3          | S2PMG3.zip         | 2 switches, Zero-Cross relay protection, and internal temperature monitoring from HAA Manager with 75°C overheat protection
 | Shelly 2PM Gen4          | S2PMG4.zip         | None
 
 ## Instructions [(YouTube Video with subtitles)](https://www.youtube.com/watch?v=06YHkRkwJE4)
