@@ -24,7 +24,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 #### [Source Code](https://github.com/RavenSystem/esp-homekit-devices/tree/master/HAA/HAA_mgos32_Installer)
 
 ## Pre-requisites
-- Download corresponding ZIP file from [Releases](https://github.com/RavenSystem/mgos32toHAA/releases/latest). If Shelly firmware is loaded again when you upload ZIP file, use alternative "_alt1.zip" file. If same happens again, use alternative "_alt2.zip" file.
+- Download corresponding ZIP file from [Releases](https://github.com/RavenSystem/mgos32toHAA/releases/latest). If Shelly firmware is loaded again when you upload ZIP file, use alternative "_alt1.zip" file. If same happens again, use alternative "_alt2.zip", "_alt3.zip"... files.
 - Shelly doesn't need to be updated to latest firmware version, but it can be updated to latest version if you want. This works even with version 1.4.x from Shelly.
 - Shelly doesn't need to be connected to your WiFi network, but it can be connected to your WiFi network if you want.
 
@@ -81,7 +81,7 @@ Shelly bootloader will be replaced with a standard ESP-IDF bootloader, avoiding 
 2. Navigate to `Settings -> Firmware`, and drag & drop or browse for the ZIP file in the `Firmware file image`.
 3. Click the `Update from file` button.
 4. Wait until Shelly web interface tries to reload, and wait 30 seconds more to let new firmware to do the conversion process. Be sure that you don't cut power during these 30 seconds of conversion, or your Shelly will have a chance of 1% to be bricked.
-5. If Shelly firmware is loaded again when you upload ZIP file, repeat the process using alternative "_alt.zip" file.
+5. If Shelly firmware is loaded again when you upload ZIP file, repeat the process using alternative "_altN.zip" files.
 6. An `HAA-XXXXXX` WiFi HotSpot should be visible to start the [HAA Installation steps](https://github.com/RavenSystem/esp-homekit-devices/wiki/installation#installing-haa).
 
 Feel free to change or modify MELPHAA script as your needs. [HAA Wiki](https://github.com/RavenSystem/esp-homekit-devices/wiki)
